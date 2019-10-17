@@ -1,4 +1,4 @@
-# JDK 1.8 Docker image
+# JDK 1.8 Docker Image
 
 teamsprint/jdk:8
 

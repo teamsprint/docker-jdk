@@ -1,4 +1,4 @@
-# Druid for Metatron Docker image
+# JDK 1.8 Docker image
 
 teamsprint/jdk:8
 
